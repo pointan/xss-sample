@@ -2,5 +2,6 @@
   "name": "WEB 3",
   "course of studies": "MBI",
   "css injection": "<style> body {background-color: deeppink}</style>",
-  "cross site scripting": "<script>alert('You just got hacked');</script>"
+  "cross site scripting": "<script>alert('You just got hacked');</script>",
+  "cross site scripting via image": "<img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" onload=\"alert('You just got hacked');\">"
 }
