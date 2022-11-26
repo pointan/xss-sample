@@ -1,0 +1,6 @@
+{
+  "name": "WEB 3",
+  "course of studies": "MBI",
+  "css injection": "<style> body {background-color: deeppink}</style>",
+  "cross site scripting": "<script>alert('You just got hacked');</script>"
+}
